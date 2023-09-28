@@ -1,0 +1,11 @@
+git+https://github.com/GouthamSER/cinemagoer
+pyrogram
+tgcrypto
+pymongo[srv]
+motor
+marshmallow
+umongo
+requests
+bs4
+imdbpy
+aiohttp
